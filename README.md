@@ -1,4 +1,6 @@
-#Birthday Reminder
+<h1>Birthday Reminder</h1>
+
+This is a React app to help us remind friends birthday
  
 
 ## Summary
@@ -62,6 +64,6 @@ Executes the test
 
 ## Technologies
 
-  - TS
+  - JS
   - React
   - HTML & CSS
