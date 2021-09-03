@@ -1,3 +1,4 @@
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFA800&labelColor=000000">
 
@@ -13,6 +14,7 @@ This is a React app that allows us to see some places around the world to make a
 <h1 align="center">
   <img alt="Birthday Reminder" height=70%" width="100%" title="Template" src="./src/img/birthday.png" />
 </h1>
+
 
 ## Summary
 
@@ -75,6 +77,6 @@ Executes the test
 
 ## Technologies
 
-  - TS
+  - JS
   - React
   - HTML & CSS
