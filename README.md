@@ -5,13 +5,14 @@
 </p>
 
 
-<h1 align="center">
-  <img alt="Birthday Reminder" height=70%" width="100%" title="Template" src="./img/birthday.png" />
-</h1>
-
 <h1>Birthday Reminder"</h1>
 
 This is a React app that allows us to see some places around the world to make a tour.
+
+
+<h1 align="center">
+  <img alt="Birthday Reminder" height=70%" width="100%" title="Template" src="./src/img/birthday.png" />
+</h1>
 
 ## Summary
 
